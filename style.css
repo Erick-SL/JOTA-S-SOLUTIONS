@@ -171,4 +171,7 @@ body {
     .ldesquerdo .info{
         border-bottom: 1px solid;
     }
+    .ldesquerdo .info-nav ul.direito {
+    justify-content: left;
+    }
 }
