@@ -161,7 +161,7 @@ body {
 }
 @media screen and (max-width: 620px){
     .ldesquerdo .info::after {
-        width: 55%;
+        width: 52%;
     }
 }
 @media screen and (max-width: 390px){
